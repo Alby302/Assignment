@@ -1,0 +1,1 @@
+Width and height attributes are used to insert the width and height to a photo or video

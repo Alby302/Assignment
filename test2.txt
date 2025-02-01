@@ -1,0 +1,1 @@
+<textarea> is used to define multiline input. Row and cols is attribute and it will create row and columns. if remove that attribute then it doesn't create rows and colums
